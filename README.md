@@ -1,4 +1,4 @@
-# ticker
+# bloc-timer
 
 A new Flutter project.
 
